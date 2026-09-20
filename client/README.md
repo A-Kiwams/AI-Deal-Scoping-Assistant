@@ -1,5 +1,4 @@
-
-[Video demonstration:](https://drive.google.com/file/d/1Hzh_8ZUEwWPIQYkWl9dVjRaYvGMek0JE/view?usp=sharing)
+[Video Demonstration](https://drive.google.com/file/d/1Hzh_8ZUEwWPIQYkWl9dVjRaYvGMek0JE/view?usp=sharing)
 
 ..
 
@@ -43,6 +42,7 @@ The application supports requirements analysis, functional scoping, cloud archit
 
 ## 2. Technology Stack
 
+```
 - React
 - TypeScript
 - Vite
